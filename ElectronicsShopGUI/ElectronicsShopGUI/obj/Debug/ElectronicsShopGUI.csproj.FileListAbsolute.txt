@@ -1,0 +1,10 @@
+C:\Users\Ahmed Hussein\source\repos\ElectronicsShopGUI\ElectronicsShopGUI\obj\Debug\ElectronicsShopGUI.csproj.AssemblyReference.cache
+C:\Users\Ahmed Hussein\source\repos\ElectronicsShopGUI\ElectronicsShopGUI\obj\Debug\ElectronicsShopGUI.Form1.resources
+C:\Users\Ahmed Hussein\source\repos\ElectronicsShopGUI\ElectronicsShopGUI\obj\Debug\ElectronicsShopGUI.Properties.Resources.resources
+C:\Users\Ahmed Hussein\source\repos\ElectronicsShopGUI\ElectronicsShopGUI\obj\Debug\ElectronicsShopGUI.csproj.GenerateResource.cache
+C:\Users\Ahmed Hussein\source\repos\ElectronicsShopGUI\ElectronicsShopGUI\obj\Debug\ElectronicsShopGUI.csproj.CoreCompileInputs.cache
+C:\Users\Ahmed Hussein\source\repos\ElectronicsShopGUI\ElectronicsShopGUI\bin\Debug\ElectronicsShopGUI.exe.config
+C:\Users\Ahmed Hussein\source\repos\ElectronicsShopGUI\ElectronicsShopGUI\bin\Debug\ElectronicsShopGUI.exe
+C:\Users\Ahmed Hussein\source\repos\ElectronicsShopGUI\ElectronicsShopGUI\bin\Debug\ElectronicsShopGUI.pdb
+C:\Users\Ahmed Hussein\source\repos\ElectronicsShopGUI\ElectronicsShopGUI\obj\Debug\ElectronicsShopGUI.exe
+C:\Users\Ahmed Hussein\source\repos\ElectronicsShopGUI\ElectronicsShopGUI\obj\Debug\ElectronicsShopGUI.pdb
